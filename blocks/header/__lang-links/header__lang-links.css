@@ -3,6 +3,6 @@
     padding-left: 0;
     display: flex;
     align-items: center;
-    align-self: flex-end;
+    align-self: center;
     list-style: none;
 }
