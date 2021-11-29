@@ -1,8 +1,7 @@
 .intro {
     margin: 0 auto;
-    max-width: 690px;
+    max-width: 984px;
     margin-bottom: 92px;
-    margin-left: 148px;
     display: flex;
     flex-direction: column;
     justify-items: start;

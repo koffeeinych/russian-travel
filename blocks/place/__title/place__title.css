@@ -1,23 +1,16 @@
 .place__title {
+    max-width: 440px;
     grid-column: 1/2;
     grid-row: 1/2;
     justify-self: start;
     align-self: end;
     margin: 0;
-    padding: 0;
-    margin-bottom: 48px;
     text-align: left;
     max-width: 460px;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-}
-
-@media screen and (max-width: 1120px) {
-    .place__title {
-        max-width: 440px;
-    }
 }
 
 @media screen and (max-width: 960px) {    
@@ -31,7 +24,6 @@
 @media screen and (max-width: 540px) {
     .place__title {
         max-width: 288px;
-        margin-bottom: 32px;
         font-size: 32px;
         line-height: 35px;
         grid-column: 1/2;

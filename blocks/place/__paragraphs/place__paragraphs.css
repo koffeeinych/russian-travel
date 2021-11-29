@@ -1,5 +1,5 @@
 .place__paragraphs {
-    margin: 0;
+    max-width: 484px;
     grid-column: 2/3;
     grid-row: 2/3;
     justify-self: start;
@@ -10,7 +10,7 @@
     .place__paragraphs {
         max-width: 288px;
         grid-column: 1/2;
-        grid-row: 6/6;
+        grid-row: 3/4;
         justify-self: center;
         align-self: center;
     }
