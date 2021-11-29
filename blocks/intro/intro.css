@@ -17,12 +17,14 @@
     .intro {
         max-width: 720px;
         margin-bottom: 88px;
+        margin-left: 24px;
     }
 }
 
 @media screen and (max-width: 540px) {
     .intro {
         max-width: 288px;
+        margin-left: 16px;
         margin-bottom: 64px;
     }
 }

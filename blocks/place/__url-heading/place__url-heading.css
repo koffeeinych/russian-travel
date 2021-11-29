@@ -1,12 +1,8 @@
 .place__url-heading {
-    margin: 0;
     margin-bottom: 12px;
-    padding: 0;
-    text-align: left;
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
     text-transform: uppercase;
-    max-width: 456px;
 }

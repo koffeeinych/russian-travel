@@ -1,28 +1,5 @@
 .place__image {
-    grid-column: 1/2;
-    grid-row: 2/3;
-    justify-self: start;
-    align-self: start;
-    max-width: 460px;
-}
-
-@media screen and (max-width: 1120px) {
-    .place__image {
-        max-width: 440px;
-    }
-}
-
-@media screen and (max-width: 960px) {    
-    .place__image {
-        max-width: 340px;
-    }
-}
-
-@media screen and (max-width: 540px) {
-    .place__image {
-        max-width: 320px;
-        max-width: 100%;
-        grid-column: 1/2;
-        grid-row: 5/5;
-    }
+    grid-area: image;
+    width: 100%;
+    object-fit: cover;
 }
