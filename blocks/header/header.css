@@ -9,6 +9,11 @@
     margin-bottom: 56px;
 }
 
+@media screen and (max-width: 1120px) {
+    .header {
+        margin-bottom: 48px;
+}   }
+
 @media screen and (max-width: 960px) {    
     .header {
         padding: 28px 24px 0 24px;

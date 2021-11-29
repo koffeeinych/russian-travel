@@ -2,11 +2,14 @@
     margin: 0 auto;
     max-width: 984px;
     margin-bottom: 92px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media screen and (max-width: 1120px) {
     .lead {
-        margin-bottom: 92px;
+        max-width: 928px;
     }
 }
 
