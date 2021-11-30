@@ -11,9 +11,7 @@
 
 @media screen and (max-width: 540px) {
     .footer__links {
-        display: flex;
         flex-direction: column;
-        justify-content: space-between;
         align-items: start;
         flex-wrap: nowrap;
     }

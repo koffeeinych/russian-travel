@@ -40,6 +40,6 @@
 
 @media screen and (max-width: 540px) {
     .cover__link {
-        min-height: 320px;
+        min-height: 200px;
     }
 }
